@@ -13,6 +13,7 @@ dependencies:
   - jupyter
   - pandas
   - pytables
+  - cython
   - pip=9.0.1
   - pip:
      - git+https://github.com/adrn/twobody
