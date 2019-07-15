@@ -9,6 +9,6 @@ avconv -framerate 5 -i <filebase>_%03d.jpg out.mov
 
 On Mac, launch iMovie and create a new project. Go to iMovie -> Preferences; change Photo Placement to "Fit" and Photo Duration to 0.1s (the shortest allowed). Drag and drop all the image files into the "import media" box, then reselect them all from that box and drag them down into the bottom box. (Hit the play button to preview once all the images are loaded). To save, go to File -> Share -> File, choose your settings (I use 540p, medium quality, and faster compression), then give it a minute to export. 
 
-Copyright 2019 Stephanie T. Douglas
+Copyright 2019 Stephanie T. Douglas, Adrian Price-Whelan
 
 Use at your own risk. This is free software made available under the MIT License. For details see the LICENSE file.
